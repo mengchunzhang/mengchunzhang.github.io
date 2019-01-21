@@ -1,4 +1,4 @@
-﻿<project version="2.9" name="首页" ID="2F3AB7EE-77C7-4C41-9355-434A09556ED6">
+﻿<project version="2.9" name="mengchun" ID="2F3AB7EE-77C7-4C41-9355-434A09556ED6">
   <params>
     <pageParam version="5.3" minAllowVersion="5.3"/>
     <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1300,1300)" backgroundColor="4294899960" fontSize="14" fontFamily="微软雅黑" projectType="ptPersonalProject" isShowTitleIndex="False"/>
@@ -6,7 +6,7 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="首页" ID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" expanded="True" code="WcXETEjRG8" thumbCode="x8Z1LvAfIs" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="首页" ID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" expanded="True" code="DcTH9iAlyI" thumbCode="DcTH9iAlyI" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="37AE9325756C6633444F00E67AEE7E2B.png"/>
         <image key="B2A9B9D11C35B1784A9A088A9C399BB0.png"/>
@@ -15,7 +15,7 @@
         <image key="57C42F8AF5609880A68119AE460A1CC5.png"/>
         <image key="D831B6CF6E8A7EA4CC5CFE4A8C24C870.png"/>
       </images>
-      <page name="research" ID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" expanded="True" code="ludeYW6Ndk" thumbCode="ludeYW6Ndk" status="psWhite" isfolder="False" isshownode="True">
+      <page name="research" ID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" expanded="True" code="zVDopiOxn4" thumbCode="zVDopiOxn4" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="AB24FD91F2DEFE05DD69C69FA5ACFDE5.jpg"/>
         </images>
@@ -37,31 +37,31 @@
         </page>
         <page name="others" ID="64294FC6-6BA2-4380-839F-643C01E444E4" expanded="True" code="FV5Wk9dkVF" thumbCode="FV5Wk9dkVF" status="psWhite" isfolder="False" isshownode="True">
           <images>
-            <image key="74127D6D917CCC24A030DA4EB6569082.PNG"/>
             <image key="5B01B3A2E19A118BCC0D6E652E6CA638.PNG"/>
             <image key="323A4C1A9E1FF7828F5C18EEA4B65507.png"/>
+            <image key="74127D6D917CCC24A030DA4EB6569082.PNG"/>
             <image key="EDE3ACC0D4DEBF5ABE570D7EF937C7C6.PNG"/>
           </images>
         </page>
       </page>
-      <page name="honor" ID="891C3A98-9653-430B-8617-8387697576AD" expanded="True" code="5Cq1ibu6C5" thumbCode="5Cq1ibu6C5" status="psWhite" isfolder="False" isshownode="True">
+      <page name="honor" ID="891C3A98-9653-430B-8617-8387697576AD" expanded="True" code="923gbbZQNM" thumbCode="923gbbZQNM" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
         </images>
-        <page name="meisai" ID="88E29974-CF81-455B-AF40-1535680065EC" expanded="True" code="NmG3ui8sNs" thumbCode="NmG3ui8sNs" status="psWhite" isfolder="False" isshownode="True">
+        <page name="meisai" ID="88E29974-CF81-455B-AF40-1535680065EC" expanded="True" code="ZX7OnaK3fO" thumbCode="ZX7OnaK3fO" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="FDACA88FD62A0C8690738B09D0D18929.PNG"/>
             <image key="0B7235144C4394CE1D37F7F6AEB8000B.PNG"/>
             <image key="08CB7B5E0723D688583212FAFB3577FB.PNG"/>
           </images>
         </page>
-        <page name="notes" ID="70379ED5-4882-4530-B314-017A6C196B45" expanded="True" code="TejBqFGKe3" thumbCode="TejBqFGKe3" status="psWhite" isfolder="False" isshownode="True">
+        <page name="notes" ID="70379ED5-4882-4530-B314-017A6C196B45" expanded="True" code="J9n5Xpw6ME" thumbCode="J9n5Xpw6ME" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="49BFF0B5350A3C5D1329E3E130407ECC.jpg"/>
             <image key="562832B9E813A7D517CF8B21463A0637.jpg"/>
           </images>
         </page>
-        <page name="peiyin" ID="CCAF61B9-D970-4CBC-9123-84A93A323E8D" expanded="True" code="E3juubwkHQ" thumbCode="E3juubwkHQ" status="psWhite" isfolder="False" isshownode="True">
+        <page name="peiyin" ID="CCAF61B9-D970-4CBC-9123-84A93A323E8D" expanded="False" code="xQ5rRXYJmF" thumbCode="xQ5rRXYJmF" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="117737FFC65345A8DBCEA6F3051F6DB1.svg"/>
             <image key="78E8561463D8C15DD7D6C0D0BC53C95E.jpg"/>
@@ -69,14 +69,15 @@
           </images>
         </page>
       </page>
-      <page name="duoyuanhua" ID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" expanded="True" code="jTGrfiEuWh" thumbCode="jTGrfiEuWh" status="psWhite" isfolder="False" isshownode="True">
+      <page name="duoyuanhua" ID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" expanded="True" code="xSAwCA7FiH" thumbCode="xSAwCA7FiH" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="AA434F11C9CFB03E803BABA0F622FCBA.jpg"/>
           <image key="A54624F9887F8D65AC13DE84A0426F86.PNG"/>
           <image key="C756C11A17C97FA04494F0288060A2D5.jpg"/>
         </images>
       </page>
-      <page name="shining" ID="888EB620-9A0C-4BB9-B330-0F36791C448D" expanded="True" code="32CbzJTNj8" thumbCode="32CbzJTNj8" status="psWhite" isfolder="False" isshownode="True">
+      <page name="bio" ID="FB75A2C3-D26E-4CD4-ACB3-6D4785B80CAA" expanded="True" code="KY5tTwVGzK" thumbCode="KY5tTwVGzK" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="shining" ID="888EB620-9A0C-4BB9-B330-0F36791C448D" expanded="True" code="skWUcanKai" thumbCode="skWUcanKai" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="6A0A8558F454A13748E993663E40219F.png"/>
           <image key="125E66634E85A18C2BF3F44964A48EF5.png"/>
@@ -163,6 +164,8 @@
     <page name="dance" ID="9E3D2FDD-8B0D-4925-A974-DFF7CF777F10" expanded="True" code="a8BCs8nzRU" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
     <page name="sing" ID="722023D9-9FE0-417E-A545-EA971FB8E081" expanded="True" code="oyxmSMyvuH" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
     <page name="volunteer" ID="DD17D31C-FEF6-496D-B22A-5BC02427794B" expanded="True" code="kkT57KQXwH" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="F670E315-3022-46C0-9FC2-75FBDF98DF55" expanded="False" code="FpF1i8fTG2" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="B54E3A29-035B-4360-9B00-9B8CACF26AFA" expanded="True" code="D5kaiVtyos" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
   </trash>
   <deletes/>
   <masters/>

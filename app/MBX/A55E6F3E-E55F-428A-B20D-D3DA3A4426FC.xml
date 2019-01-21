@@ -10,26 +10,29 @@
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="7A779CDA-5790-4D86-B339-7F6D0E338F70" controlTypeID="Tabs" x="12" y="66" w="1288" h="108" zOrder="1">
+    <control controlID="7A779CDA-5790-4D86-B339-7F6D0E338F70" controlTypeID="Tabs" x="10" y="66" w="1288" h="108" zOrder="1">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
-          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,256.600006103516,108)"/>
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,213.66667175293,108)"/>
         </link>
         <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
-          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(257.600006103516,0,514.200012207031,108)"/>
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(214.66667175293,0,428.333343505859,108)"/>
         </link>
         <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
-          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(515.200012207031,0,771.800048828125,108)"/>
+          <area shape="0" alt="" ID="{57EED442-E063-43E5-928F-C695C79DA6CA}" coords="(429.333343505859,0,643,108)"/>
         </link>
         <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
-          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(772.800048828125,0,1029.40002441406,108)"/>
+          <area shape="0" alt="" ID="{EC428D95-C010-4793-8528-FBC739069C66}" coords="(644,0,857.666687011719,108)"/>
         </link>
         <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
-          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1030.40002441406,0,1287,108)"/>
+          <area shape="0" alt="" ID="{57D0A065-80B7-481B-AA5D-87547AA548B1}" coords="(858.666687011719,0,1072.33337402344,108)"/>
+        </link>
+        <link targetPageID="FB75A2C3-D26E-4CD4-ACB3-6D4785B80CAA" linkType="ltPageLink" isApplyIncludePage="False" title="bio">
+          <area shape="0" alt="" ID="{25BAC7D7-2700-4169-B1D6-5DFBDD20EDD0}" coords="(1073.33337402344,0,1287,108)"/>
         </link>
       </links>
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <text>homepage%2Cresearch%2Chonor%2Cdiversification%2Cinterest%2Cbio</text>
       <textColor>4281545676</textColor>
       <textSize>32</textSize>
       <lineSpacing>0</lineSpacing>
