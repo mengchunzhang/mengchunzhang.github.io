@@ -1,0 +1,154 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="64294FC6-6BA2-4380-839F-643C01E444E4" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="3750" mobileScreenScale="0">
+  <controls controlCount="19">
+    <control controlID="2BC04921-417A-4760-9F29-E66E8E6AE1A7" controlTypeID="Tabs" x="20" y="60" w="1264" h="106" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4294914969</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="B5650610-B734-4693-AB38-F15142C8E869" controlTypeID="Label" x="78" y="293" w="222" h="53" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E2%91%A0Track+car</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D7F434A2-DCF8-418E-AAA4-3F19A52B7760" controlTypeID="Image" x="78" y="456" w="510" h="344" zOrder="2">
+      <URL>EDE3ACC0D4DEBF5ABE570D7EF937C7C6.PNG</URL>
+    </control>
+    <control controlID="9B5298C3-DFDF-4103-B93F-FAD2E57A2A03" controlTypeID="Image" x="78" y="905" w="510" h="375" zOrder="3">
+      <URL>74127D6D917CCC24A030DA4EB6569082.PNG</URL>
+    </control>
+    <control controlID="FE025146-C1B1-44DB-A87F-910A3CEC50A9" controlTypeID="Image" x="78" y="1398" w="510" h="402" zOrder="4">
+      <URL>5B01B3A2E19A118BCC0D6E652E6CA638.PNG</URL>
+    </control>
+    <control controlID="1E014722-47A6-4DA5-8F0E-B99A7E16BBE4" controlTypeID="Label" x="78" y="401" w="273" h="37" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Car+finished+product</text>
+      <textColor>4284900966</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2119780F-7B91-4AD4-A4D8-1F6BA75318C2" controlTypeID="Label" x="78" y="831" w="123" h="37" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>pcb+front</text>
+      <textColor>4284900966</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1755E4F6-4622-415A-9458-BAD6B7E036DA" controlTypeID="Label" x="78" y="1319" w="105" h="37" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>pcb%E5%8F%8D%E9%9D%A2</text>
+      <textColor>4284900966</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DF2084A3-DB14-4FBC-8797-66DB979649A9" controlTypeID="TextArea" x="618" y="964" w="664" h="158" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1.Power+module%0D%0AThe+power+module+consists+of+two+rechargeable+lithium+batteries+and+an+LM7805+chip.+The+voltage+of+the+two+lithium+batteries+in+series+is+about+8V.%0D%0AThen+power+the+circuit+through+the+LM7805+chip+output+voltage+of+5V</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="77BB1009-FAA0-4C1A-AD76-87E9C1CE52FC" controlTypeID="TextArea" x="620" y="1196" w="660" h="130" zOrder="9">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>2.+Track+monitoring+module%0D%0AUse+a+tracking+sensor+with+a+supply+voltage+of+5V+to+output+a+digital+level+signal.+If+the+ground+is+detected+as+a+white+line%2C+the+output+is+output.%0D%0AIs+high%3B+if+the+ground+is+detected+as+black%2C+the+output+is+low.</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="27C64D26-324F-401E-B260-42C867255FC3" controlTypeID="TextArea" x="618" y="1408" w="660" h="200" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>3.+Motor+drive+module%0D%0AThe+module+consists+of+L293B%2C+which+controls+the+speed+of+the+motor+through+the+PWM+input%2C+through+the+input+of+high+and+low+levels.%0D%0AControl+the+steering+of+the+left+and+right+motors%2C+and+then+control+the+steering+of+the+car.</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D6B9D17D-710F-4BF8-B802-71C035D4A15C" controlTypeID="TextArea" x="618" y="1652" w="660" h="244" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>4.+Control+module+%0D%0AIn+this+experiment%2C+the+control+of+the+direction+of+travel+of+the+trolley+is+realized+by+changing+the+direction+of+rotation+of+the+left+and+right+motors.+The+input+to+the+control+module+is+the+output+of+two+infrared+tracking+sensors%2C+and+the+output+of+the+control+module+acts+as+the+input+to+the+motor+drive+module+chip.</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="37E5D5C4-92FD-44DB-A013-EC0EBD96D910" controlTypeID="TextArea" x="618" y="464" w="630" h="212" zOrder="12">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Car+performance%3A%0D%0AThe+car+starts+from+the+starting+point+and+moves+along+the+predetermined+trajectory.+When+the+car+reaches+the+end%2C+the+car+retreats+by+itself.</text>
+      <textColor>4281545523</textColor>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D78A3CEA-E5DC-4969-8F16-71B6D5413E51" controlTypeID="VSplitter" x="598" y="401" w="10" h="1495" zOrder="13"/>
+    <control controlID="4318A33A-ECE9-408D-855B-0915DCBC6F6B" controlTypeID="Label" x="798" y="878" w="318" h="32" zOrder="14">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Each+part+of+the+car+module</text>
+      <textSize>24</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="01F0AFE7-B851-454B-800A-AC2D33371C6F" controlTypeID="Label" x="62" y="2001" w="376" h="53" zOrder="15">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E2%91%A1Simple+keyboard</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FB6B07F7-C7F6-4001-B5CB-8CFC4AF344DA" controlTypeID="TextArea" x="62" y="2120" w="1202" h="578" zOrder="16">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>The+keyboard+system+is+a+system+consisting+of+51+series+single-chip+STC89C52+as+the+main+controller%2C+4*4+matrix+keyboard+module%2C+power+amplification+module%2C+buzzer%2C+display+module+and+power+supply.+Complete+basic+functions+such+as+displaying+input+information+and+playing+corresponding+notes.+When+the+user+presses+each+button%2C+the+MCU+generates+a+square+wave+of+the+corresponding+frequency%2C+and+drives+the+buzzer+through+the+power+amplification+module+to+emit+a+corresponding+sound.+That+is%2C+research+is+needed%3A%0D%0A(1)+The+user+can+play+the+corresponding+note+by+playing+the+button+and+play+the+generated+tone.%0D%0A(2)+You+can+select+to+play+an+automatic+performance+of+a+fixed+song.%0D%0A(3)+When+the+performance+is+performed%2C+the+LED+performs+the+beat+indication%2C+and+the+digital+tube+displays+the+corresponding+tone.%E3%80%82</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ADF948AC-B5D8-4ECB-98F4-18F9173B7C66" controlTypeID="Image" x="320" y="2778" w="580" h="418" zOrder="17">
+      <URL>323A4C1A9E1FF7828F5C18EEA4B65507.png</URL>
+    </control>
+    <control controlID="BCDDDA71-B009-4A45-BF11-59015D993FE4" controlTypeID="Label" x="341" y="3233" w="525" h="37" zOrder="18">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Development+board+operation+diagram</text>
+      <textColor>4284900966</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294899960</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

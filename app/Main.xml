@@ -1,0 +1,209 @@
+﻿<project version="2.9" name="首页" ID="2F3AB7EE-77C7-4C41-9355-434A09556ED6">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1300,1300)" backgroundColor="4294899960" fontSize="14" fontFamily="微软雅黑" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" expanded="True" code="WcXETEjRG8" thumbCode="x8Z1LvAfIs" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="37AE9325756C6633444F00E67AEE7E2B.png"/>
+        <image key="B2A9B9D11C35B1784A9A088A9C399BB0.png"/>
+        <image key="B4DC83410905EEF21EB3C5E037499198.png"/>
+        <image key="6BC27DE20272A4810EAA3B06A0B7CB3E.JPG"/>
+        <image key="57C42F8AF5609880A68119AE460A1CC5.png"/>
+        <image key="D831B6CF6E8A7EA4CC5CFE4A8C24C870.png"/>
+      </images>
+      <page name="research" ID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" expanded="True" code="ludeYW6Ndk" thumbCode="ludeYW6Ndk" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="AB24FD91F2DEFE05DD69C69FA5ACFDE5.jpg"/>
+        </images>
+        <page name="cizhishensuo" ID="9C24D049-94C2-4299-8606-4A1774DF4E98" expanded="True" code="UoqIj2jRo8" thumbCode="UoqIj2jRo8" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="F5861D614B63CA8805F439B30DE9684D.jpg"/>
+          </images>
+        </page>
+        <page name="安检设备输送系统的优化" ID="3B1D36D9-ED96-4F69-A976-ABFC1B0289F4" expanded="True" code="jnLqEaattE" thumbCode="jnLqEaattE" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="EF5AFBC545D963E51C7CC481EECAFC13.png"/>
+          </images>
+        </page>
+        <page name="battery" ID="7622A5FD-C05C-4C70-8BDA-559B6D6F3F15" expanded="True" code="N6X8TUjhi3" thumbCode="N6X8TUjhi3" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="CE158F57ED70BC29F05137116D7F4141.png"/>
+            <image key="F822F612D58D4483588A35B2497D135A.png"/>
+          </images>
+        </page>
+        <page name="others" ID="64294FC6-6BA2-4380-839F-643C01E444E4" expanded="True" code="FV5Wk9dkVF" thumbCode="FV5Wk9dkVF" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="74127D6D917CCC24A030DA4EB6569082.PNG"/>
+            <image key="5B01B3A2E19A118BCC0D6E652E6CA638.PNG"/>
+            <image key="323A4C1A9E1FF7828F5C18EEA4B65507.png"/>
+            <image key="EDE3ACC0D4DEBF5ABE570D7EF937C7C6.PNG"/>
+          </images>
+        </page>
+      </page>
+      <page name="honor" ID="891C3A98-9653-430B-8617-8387697576AD" expanded="True" code="5Cq1ibu6C5" thumbCode="5Cq1ibu6C5" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+        </images>
+        <page name="meisai" ID="88E29974-CF81-455B-AF40-1535680065EC" expanded="True" code="NmG3ui8sNs" thumbCode="NmG3ui8sNs" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="FDACA88FD62A0C8690738B09D0D18929.PNG"/>
+            <image key="0B7235144C4394CE1D37F7F6AEB8000B.PNG"/>
+            <image key="08CB7B5E0723D688583212FAFB3577FB.PNG"/>
+          </images>
+        </page>
+        <page name="notes" ID="70379ED5-4882-4530-B314-017A6C196B45" expanded="True" code="TejBqFGKe3" thumbCode="TejBqFGKe3" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="49BFF0B5350A3C5D1329E3E130407ECC.jpg"/>
+            <image key="562832B9E813A7D517CF8B21463A0637.jpg"/>
+          </images>
+        </page>
+        <page name="peiyin" ID="CCAF61B9-D970-4CBC-9123-84A93A323E8D" expanded="True" code="E3juubwkHQ" thumbCode="E3juubwkHQ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="117737FFC65345A8DBCEA6F3051F6DB1.svg"/>
+            <image key="78E8561463D8C15DD7D6C0D0BC53C95E.jpg"/>
+            <image key="A0234D1F18736E757928D9EC6828D97E.jpg"/>
+          </images>
+        </page>
+      </page>
+      <page name="duoyuanhua" ID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" expanded="True" code="jTGrfiEuWh" thumbCode="jTGrfiEuWh" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="AA434F11C9CFB03E803BABA0F622FCBA.jpg"/>
+          <image key="A54624F9887F8D65AC13DE84A0426F86.PNG"/>
+          <image key="C756C11A17C97FA04494F0288060A2D5.jpg"/>
+        </images>
+      </page>
+      <page name="shining" ID="888EB620-9A0C-4BB9-B330-0F36791C448D" expanded="True" code="32CbzJTNj8" thumbCode="32CbzJTNj8" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="6A0A8558F454A13748E993663E40219F.png"/>
+          <image key="125E66634E85A18C2BF3F44964A48EF5.png"/>
+          <image key="7EFF7D997783E7B3B740FB386382EB87.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="照片" ID="64A4A456-D2F4-445C-9851-2AD560AFCF36" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="1" ID="A445154F-091E-4B66-98F5-6A6B543572A5" expanded="True" status="psGreen" isfolder="True" isshownode="True"/>
+      <page name="2" ID="784B987E-3236-4D7D-9F69-E5D2F0C2299A" expanded="False" status="psGreen" isfolder="True" isshownode="True"/>
+      <page name="3" ID="FA690FF1-ED7A-40F5-9F61-18721C533793" expanded="False" status="psGreen" isfolder="True" isshownode="True"/>
+      <page name="4" ID="7B03ADA7-D53C-4DC7-8C61-1D8D5EBDFA95" expanded="False" status="psGreen" isfolder="True" isshownode="True"/>
+    </page>
+  </pages>
+  <trash>
+    <page name="裤子" ID="F5B6BE21-006F-4E12-8248-AF2C511E511E" expanded="False" code="67P4ovMKbV" thumbCode="Ps2LZWhk5w" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+        <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        <image key="8FCAE88BF9E7F70E7C2A7CED8744F6DC.svg"/>
+        <image key="E447C8EF21DE64EDDB03C3EF95A290A3.svg"/>
+        <image key="DE7A3840C7CBA1B69449E3DDB42FE32A.svg"/>
+        <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+      </images>
+    </page>
+    <page name="登录页面" ID="F38377CB-A507-4B69-92C4-88C0ACA5915D" expanded="True" code="ZxRQgkQTbW" thumbCode="ABwzmhcLRF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8FCAE88BF9E7F70E7C2A7CED8744F6DC.svg"/>
+      </images>
+    </page>
+    <page name="上衣" ID="E0A4A814-3586-45F2-8E23-8A6E7EA9749F" expanded="True" code="EKQsX76bFD" thumbCode="1Uo5YwQOC4" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+        <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        <image key="8FCAE88BF9E7F70E7C2A7CED8744F6DC.svg"/>
+        <image key="E447C8EF21DE64EDDB03C3EF95A290A3.svg"/>
+        <image key="DE7A3840C7CBA1B69449E3DDB42FE32A.svg"/>
+        <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+      </images>
+    </page>
+    <page name="裤子" ID="3D66D159-D5D7-4929-B389-CA2CF43DBC5A" expanded="True" code="FuyQRShdSE" thumbCode="m9f2uzY72p" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+        <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        <image key="8FCAE88BF9E7F70E7C2A7CED8744F6DC.svg"/>
+        <image key="E447C8EF21DE64EDDB03C3EF95A290A3.svg"/>
+        <image key="DE7A3840C7CBA1B69449E3DDB42FE32A.svg"/>
+        <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+      </images>
+    </page>
+    <page name="裙子" ID="E1D780B4-7A2A-408B-898E-B69CA3745AC0" expanded="True" code="Cv74IWluiW" thumbCode="mEMqW7VeXT" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+        <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+        <image key="8FCAE88BF9E7F70E7C2A7CED8744F6DC.svg"/>
+        <image key="E447C8EF21DE64EDDB03C3EF95A290A3.svg"/>
+        <image key="DE7A3840C7CBA1B69449E3DDB42FE32A.svg"/>
+        <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+      </images>
+    </page>
+    <page name="页面" ID="E0E48C3B-9231-4CE3-BB3F-047DBE1BDE0B" expanded="False" code="CJZrxjOAXk" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="FE55FECF-61F6-4798-801C-554785B8FF67" expanded="False" code="AaSsJeXrPe" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="gpa" ID="9F210D8F-73F6-418F-AC7E-08D0563AA1AE" expanded="True" code="2CPDaCHpZq" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="study" ID="ED898692-22FD-4CE4-992B-5EA8D7C57989" expanded="True" code="DjzOqLFDEY" thumbCode="mbNA8eEvAd" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="117737FFC65345A8DBCEA6F3051F6DB1.svg"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="页面" ID="EB8ECA9A-9E38-4728-A86F-1375D41A8949" expanded="False" code="QruhsA6Rxr" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="robots" ID="85E2984C-C374-408E-BF1E-5EF04FC06B71" expanded="True" code="jBzvAzvLwo" thumbCode="oaVDpIHAgi" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="russia" ID="5D45D51A-C0A9-4523-8F51-181A04652176" expanded="True" code="WGeJuGrgTb" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="good student" ID="67765B1C-1D9E-4519-881D-BE605B375263" expanded="True" code="KTgBOivvN2" thumbCode="kJZGEG3h6N" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="math tests" ID="13F09C4F-16D4-4769-8136-82DFBD63F69B" expanded="True" code="5ARKixPh8q" thumbCode="SbYjWcaUT2" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="youxiubiaobing" ID="C78E5E50-460D-43F6-9CBB-9D72E96C68BF" expanded="True" code="JfgpXV9z1v" thumbCode="VbjZ7R7vEV" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="singapore" ID="C2856FA0-B852-44E9-B4D5-719F6F8D4EB4" expanded="True" code="g4vg1bZQxB" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="international summer school" ID="F5DC3100-921E-4B47-9710-23179502E84B" expanded="True" code="VvKbaRJKNb" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="chinese korean" ID="BA7E1F00-7422-4085-B9B0-EF37FB8C28FC" expanded="True" code="XrwEyiJIUJ" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="piano" ID="07DFA9EE-D483-4A18-AFAF-B3F8BD156F2A" expanded="True" code="iwTpBAv5vB" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="dance" ID="9E3D2FDD-8B0D-4925-A974-DFF7CF777F10" expanded="True" code="a8BCs8nzRU" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="sing" ID="722023D9-9FE0-417E-A545-EA971FB8E081" expanded="True" code="oyxmSMyvuH" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="volunteer" ID="DD17D31C-FEF6-496D-B22A-5BC02427794B" expanded="True" code="kkT57KQXwH" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="B2A9B9D11C35B1784A9A088A9C399BB0.png"/>
+    <image key="B4DC83410905EEF21EB3C5E037499198.png"/>
+    <image key="F5861D614B63CA8805F439B30DE9684D.jpg"/>
+    <image key="9DA58F6FCBD77A56BA4CDD80AFFCE333.svg"/>
+    <image key="74127D6D917CCC24A030DA4EB6569082.PNG"/>
+    <image key="562832B9E813A7D517CF8B21463A0637.jpg"/>
+    <image key="08CB7B5E0723D688583212FAFB3577FB.PNG"/>
+    <image key="EDE3ACC0D4DEBF5ABE570D7EF937C7C6.PNG"/>
+    <image key="D831B6CF6E8A7EA4CC5CFE4A8C24C870.png"/>
+    <image key="5B01B3A2E19A118BCC0D6E652E6CA638.PNG"/>
+    <image key="323A4C1A9E1FF7828F5C18EEA4B65507.png"/>
+    <image key="8FCAE88BF9E7F70E7C2A7CED8744F6DC.svg"/>
+    <image key="EF5AFBC545D963E51C7CC481EECAFC13.png"/>
+    <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+    <image key="A54624F9887F8D65AC13DE84A0426F86.PNG"/>
+    <image key="AB24FD91F2DEFE05DD69C69FA5ACFDE5.jpg"/>
+    <image key="DE7A3840C7CBA1B69449E3DDB42FE32A.svg"/>
+    <image key="117737FFC65345A8DBCEA6F3051F6DB1.svg"/>
+    <image key="49BFF0B5350A3C5D1329E3E130407ECC.jpg"/>
+    <image key="6BC27DE20272A4810EAA3B06A0B7CB3E.JPG"/>
+    <image key="CE158F57ED70BC29F05137116D7F4141.png"/>
+    <image key="AA434F11C9CFB03E803BABA0F622FCBA.jpg"/>
+    <image key="125E66634E85A18C2BF3F44964A48EF5.png"/>
+    <image key="F822F612D58D4483588A35B2497D135A.png"/>
+    <image key="6A0A8558F454A13748E993663E40219F.png"/>
+    <image key="273F820FD8252835AA1E7927378AF485.svg"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+    <image key="A0234D1F18736E757928D9EC6828D97E.jpg"/>
+    <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+    <image key="37AE9325756C6633444F00E67AEE7E2B.png"/>
+    <image key="7EFF7D997783E7B3B740FB386382EB87.png"/>
+    <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+    <image key="0B7235144C4394CE1D37F7F6AEB8000B.PNG"/>
+    <image key="C756C11A17C97FA04494F0288060A2D5.jpg"/>
+    <image key="E447C8EF21DE64EDDB03C3EF95A290A3.svg"/>
+    <image key="FDACA88FD62A0C8690738B09D0D18929.PNG"/>
+    <image key="57C42F8AF5609880A68119AE460A1CC5.png"/>
+    <image key="78E8561463D8C15DD7D6C0D0BC53C95E.jpg"/>
+  </images>
+</project>

@@ -1,0 +1,68 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="2000" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="F3569C8C-AE12-42E1-AF8D-E4A6E9F68DE7" controlTypeID="Shape" x="474" y="258" w="788" h="494" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>+Munich+University+of+Technology+(Asia+Campus)%09Singapore%2C+Singapore%0D%0AJul+2018%E2%80%93+Jul+2018%0D%0A%0D%0A%EF%82%B7Lectures%0D%0A%EF%82%B7Company+visits%0D%0A%EF%82%B7Workshops%0D%0A%EF%82%B7Main+courses%EF%BC%9ARenewable+Energy+Sources%3BTechnologies+of+photovoltaic+cells+and+modules%3BIntergration+of+PV%2Cwind+and+storage%3BElectrical+aspects+of+photovolataic+generators%3BPower+conditioning+units+for+PV+and+wind+plants%3BElectrochemical+storage%3BExercises</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EC1BAEE5-A4FA-460A-85F0-881C2EB10635" controlTypeID="Shape" x="30" y="834" w="796" h="470" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Artificial+Intelligence+Summer+School%0D%0AJul+2018%E2%80%93+Aug+2018%0D%0A%0D%0A%EF%82%B7Teachers%3AMichael+Jordan%2CStephen+Mallet%2CStephen+WrightWorkshop%3A3D+Printing%0D%0A%0D%0A%EF%82%B7Course+contents%3AMachine+learning%2C+artificial+intelligence+(Professor%3A+Michael+Jordan+of+Stanford+University)%3BOptimization+algorithm+and+its+application+in+data+analysis+(Professor%3A+Stephen+Wright+of+the+University+of+Wisconsin-Madison)%3BHigh-dimensional+learning+with+deep+convolutional+networks+(Professor%3A+Stephen+Mallet+of+the+Paris+Normal+University)</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CFFBE146-D6C0-4ABF-B8E0-4914BBBE2783" controlTypeID="Shape" x="748" y="1476" w="496" h="242" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>I+am+a+Chinese+Korean+girl%2C+%0D%0Aso+I+know+a+little+Korean.</text>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="60E690CB-7880-4844-A23B-E19B4CAC0CDC" controlTypeID="Tabs" x="10" y="58" w="1264" h="106" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4294914969</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="31F6BE59-ACEB-4945-81AF-EDD514F1B910" controlTypeID="Image" x="836" y="920" w="430" h="276" zOrder="4">
+      <URL>AA434F11C9CFB03E803BABA0F622FCBA.jpg</URL>
+    </control>
+    <control controlID="BAD06375-4FF7-438E-9FC7-5682C6A2D57C" controlTypeID="Image" x="152" y="398" w="212" h="214" zOrder="5">
+      <URL>C756C11A17C97FA04494F0288060A2D5.jpg</URL>
+    </control>
+    <control controlID="85326B30-17B5-4676-BF0B-802F4347041C" controlTypeID="Image" x="228" y="1462" w="286" h="286" zOrder="6">
+      <URL>A54624F9887F8D65AC13DE84A0426F86.PNG</URL>
+    </control>
+    <control controlID="6B6D7F0D-99B5-451A-B6AF-F7A568C7CD30" controlTypeID="HRule" x="0" y="1790" w="1300" h="12" zOrder="7"/>
+    <control controlID="120B244B-95DD-4EB4-B463-CFCC5604C32A" controlTypeID="HRule" x="0" y="1372" w="1300" h="12" zOrder="8"/>
+    <control controlID="96F7D5BE-5BC6-458D-A848-9CB9686E99AD" controlTypeID="HRule" x="0" y="794" w="1300" h="12" zOrder="9"/>
+  </controls>
+  <param>
+    <backgroundColor>4294899960</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,36 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="67765B1C-1D9E-4519-881D-BE605B375263" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="1300" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="A9396326-B385-4863-A20B-363C6E2C3434" controlTypeID="Tabs" x="12" y="66" w="1288" h="108" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,256.600006103516,108)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(257.600006103516,0,514.200012207031,108)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(515.200012207031,0,771.800048828125,108)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="duoyuanhua">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(772.800048828125,0,1029.40002441406,108)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="shining">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1030.40002441406,0,1287,108)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%2Cresearch%2Chonor%2Cduoyuanhua%2Cshining</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4281571839</selectedColor>
+      <selectedTextColor>4278190182</selectedTextColor>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294899960</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

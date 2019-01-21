@@ -1,0 +1,82 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="ED898692-22FD-4CE4-992B-5EA8D7C57989" platform="MtWeb" defaultW="1400" defaultH="4000" measureW="1400" measureH="4000" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="D9079459-14DA-400F-A84D-33A48D68AEAE" controlTypeID="Tab" x="126" y="176" w="1028" h="790" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>+%E5%A4%A7+%E4%B8%89+%2C+%E5%A4%A7+%E4%BA%8C+%2C+%E5%A4%A7+%E4%B8%80</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="D2887201-6406-4BB1-B13C-9CBBC3A1B76A" controlTypeID="Label" x="513" y="112" w="242" h="45" zOrder="1">
+      <font family="%E5%B9%BC%E5%9C%86" displayName="%E5%B9%BC%E5%9C%86_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>+++G+++P+++A</text>
+      <textSize>40</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9C08C196-381B-4EC0-950E-F7C6B1C3524C" controlTypeID="ColumnChartEx" x="210" y="358" w="848" h="478" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>40%2C%E6%A9%99%0D%0A70%2C%E9%9D%92%E8%89%B2%0D%0A100%2C%E7%B2%89%0D%0A60%2C%23FFCE55</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="58916965-0D04-4D72-AF64-C5CD15266CC3" controlTypeID="LinkBar" x="557" y="57" w="733" h="37" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="Home+page+">
+          <area shape="0" alt="" ID="{31F4BCEB-3D09-42A3-A3F6-2DA2FFE4931F}" coords="(0,0,156,37)"/>
+        </link>
+        <link targetPageID="ED898692-22FD-4CE4-992B-5EA8D7C57989" linkType="ltPageLink" isApplyIncludePage="False" title="+study+">
+          <area shape="0" alt="" ID="{AC25CAD3-4A53-492B-9ACC-182D23E91D3A}" coords="(168,0,250,37)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="+research+">
+          <area shape="0" alt="" ID="{3E08C316-FC2A-4282-813A-6C8BC467758C}" coords="(262,0,381,37)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="+honor+">
+          <area shape="0" alt="" ID="{A5105CDF-2E3B-4AED-9ABD-3E4BFC16C7A3}" coords="(393,0,482,37)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="+duoyuan+">
+          <area shape="0" alt="" ID="{95F7387B-D2D4-4264-9ED0-C2E9929A781E}" coords="(494,0,618,37)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="+shining">
+          <area shape="0" alt="" ID="{C8EB9171-FFBA-458C-BF0C-54764B2852DF}" coords="(630,0,733,37)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home+page+%2C+study+%2C+research+%2C+honor+%2C+duoyuan+%2C+shining</text>
+      <textColor>4294914969</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="2EEB3AD3-9CE2-429D-9603-DA89409B8D05" controlTypeID="Icon" x="77" y="42" w="60" h="60" zOrder="4">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="97DE194D-8177-4EC3-899A-26E233DED30C" controlTypeID="Icon" x="50" y="10" w="118" h="118" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+          <area shape="0" alt="" ID="{1BBB70E5-5AC8-4BF5-8B67-93F63450616C}" coords="(0,0,118,118)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62329</iconCode>
+      </icon>
+      <URL>117737FFC65345A8DBCEA6F3051F6DB1.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

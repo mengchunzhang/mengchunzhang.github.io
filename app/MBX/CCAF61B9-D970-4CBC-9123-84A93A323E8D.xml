@@ -1,0 +1,65 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CCAF61B9-D970-4CBC-9123-84A93A323E8D" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="1100" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="B3CE9C3C-D5E0-4E4E-80CE-F528B2AFB228" controlTypeID="Tabs" x="20" y="56" w="1264" h="106" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4281558528</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="0604C3CF-99AE-42F9-859B-1DC0A7CF52DA" controlTypeID="Image" x="34" y="384" w="750" h="534" zOrder="1">
+      <URL>A0234D1F18736E757928D9EC6828D97E.jpg</URL>
+    </control>
+    <control controlID="88381C8A-C239-4186-BFF2-2AD1F8410943" controlTypeID="Label" x="262" y="308" w="412" h="43" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>This+is+my+award+certificate</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2188BCD2-8715-4401-BAD5-E0BCF63A0FC4" controlTypeID="Icon" x="168" y="302" w="56" h="56" zOrder="3">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62329</iconCode>
+      </icon>
+      <URL>117737FFC65345A8DBCEA6F3051F6DB1.svg</URL>
+    </control>
+    <control controlID="5E6CCEE6-65B3-4231-91C8-04C531517D57" controlTypeID="Image" x="802" y="492" w="470" h="342" zOrder="4">
+      <URL>78E8561463D8C15DD7D6C0D0BC53C95E.jpg</URL>
+    </control>
+    <control controlID="27351E4E-943F-4151-B2C4-417CDD4D40BF" controlTypeID="TextArea" x="816" y="554" w="400" h="252" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>My+usual+hobbies+are+very+wide.+I+like+to+participate+in+social+activities.+This+is+also+a+way+for+me+to+improve+myself.</text>
+      <textColor>4284900966</textColor>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

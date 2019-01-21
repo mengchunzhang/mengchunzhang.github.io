@@ -1,0 +1,110 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="888EB620-9A0C-4BB9-B330-0F36791C448D" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="2000" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="7B2CAB4A-C83A-4168-914B-4B279E3E8D3F" controlTypeID="Icon" x="666" y="296" w="474" h="474" zOrder="0">
+      <icon>
+        <ID/>
+        <iconFontName/>
+        <iconCode>-1</iconCode>
+      </icon>
+    </control>
+    <control controlID="B0768F76-8711-4308-98F2-575B7671C4D2" controlTypeID="Icon" x="666" y="826" w="474" h="474" zOrder="1">
+      <icon>
+        <ID/>
+        <iconFontName/>
+        <iconCode>-1</iconCode>
+      </icon>
+    </control>
+    <control controlID="EE604359-176B-4177-85E5-65F00A8CEDD5" controlTypeID="Icon" x="666" y="1374" w="474" h="474" zOrder="2">
+      <icon>
+        <ID/>
+        <iconFontName/>
+        <iconCode>-1</iconCode>
+      </icon>
+    </control>
+    <control controlID="67FC898A-0B53-4547-A906-4E3C2C5F2E5A" controlTypeID="Image" x="112" y="390" w="464" h="278" zOrder="3">
+      <URL>6A0A8558F454A13748E993663E40219F.png</URL>
+    </control>
+    <control controlID="B6D9632E-9358-4112-9BCC-69BE7CB92EFD" controlTypeID="Image" x="254" y="878" w="224" h="354" zOrder="4">
+      <URL>7EFF7D997783E7B3B740FB386382EB87.png</URL>
+    </control>
+    <control controlID="FFE22BCF-93DA-409F-AB2C-1D36F0B8E813" controlTypeID="Image" x="254" y="1452" w="224" h="342" zOrder="5">
+      <URL>125E66634E85A18C2BF3F44964A48EF5.png</URL>
+    </control>
+    <control controlID="35BB64A4-B35C-4198-8E00-FCC2FE7D313D" controlTypeID="Label" x="857" y="324" w="102" h="43" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>PIANO</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7072AE4C-3A7B-44B5-AD97-CF9C471C2EE7" controlTypeID="Label" x="814" y="850" w="188" h="43" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>VOLUNTEER</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D31C93CC-B0DE-4467-B9BF-7693E39A4DD0" controlTypeID="Label" x="853" y="1420" w="110" h="43" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>DANCE</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BD4FB91B-537D-4515-8664-CCDA7A4BD45A" controlTypeID="Tabs" x="10" y="44" w="1264" h="106" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4294914969</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="DCBB8E0C-001A-49A5-942F-4A5323215C33" controlTypeID="TextArea" x="690" y="404" w="436" h="330" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>I+have+been+learning+piano+since+I+was+four+years+old%2C+and+it+has+been+seventeen+years.+I+think+this+is+an+indispensable+part+of+my+life.+At+the+same+time%2C+I+am+also+the+piano+chief+of+the+School+Symphony+Orchestra.+I+have+participated+in+more+than+ten+large-scale+performances+so+far.</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="02EE7148-A533-44C3-AE2E-33D075E206AA" controlTypeID="TextArea" x="690" y="943" w="433" h="274" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>In+life%2C+I+love+to+participate+in+volunteer+activities.+The+longest+thing+I+insist+on+is+to+play+the+piano+for+the+whole+school+every+week+for+half+an+hour.+I+like+the+feeling+of+my+teacher+and+classmates+enjoying+my+piano.</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="919DA6C1-261D-44E9-BF93-93406D74D02D" controlTypeID="TextArea" x="690" y="1516" w="426" h="226" zOrder="12">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>I+have+been+studying+dance+for+12+years%2C+and+I+have+passed+the+highest+level+of+Chinese+dance.+I+am+a+girl+who+loves+literature+and+art.+This+may+be+an+important+factor+in+my+cheerful+personality.</text>
+      <textSize>24</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294899960</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

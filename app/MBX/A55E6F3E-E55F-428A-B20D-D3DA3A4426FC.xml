@@ -1,0 +1,106 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="1300" mobileScreenScale="0">
+  <controls controlCount="7">
+    <control controlID="70F6B793-8052-441D-B4CD-0E17C1A4FDA8" controlTypeID="Label" x="0" y="250" w="772" h="64" zOrder="0">
+      <font family="%E6%96%B9%E6%AD%A3%E8%88%92%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E8%88%92%E4%BD%93_%26_Bold+Italic" postScript="" weightStyle="Bold+Italic" weight="700" isBold="True" isItalic="True" useDefaultFontFamily="False"/>
+      <text>My+Research+and+My+major</text>
+      <textColor>4291611852</textColor>
+      <textSize>60</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsItalic]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7A779CDA-5790-4D86-B339-7F6D0E338F70" controlTypeID="Tabs" x="12" y="66" w="1288" h="108" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,256.600006103516,108)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(257.600006103516,0,514.200012207031,108)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(515.200012207031,0,771.800048828125,108)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(772.800048828125,0,1029.40002441406,108)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1030.40002441406,0,1287,108)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4281545676</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedColor>4281571839</selectedColor>
+      <selectedTextColor>4278190182</selectedTextColor>
+    </control>
+    <control controlID="377B5E60-C1BA-4F6E-9F9A-12614DA067BF" controlTypeID="Image" x="0" y="348" w="1290" h="632" zOrder="2">
+      <URL>AB24FD91F2DEFE05DD69C69FA5ACFDE5.jpg</URL>
+    </control>
+    <control controlID="4E68FF81-E84F-46A4-8E9E-408F21CC81A7" controlTypeID="Circle" x="708" y="707" w="406" h="223" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="64294FC6-6BA2-4380-839F-643C01E444E4" linkType="ltPageLink" isApplyIncludePage="False" title="others">
+          <area shape="0" alt="" ID="{90B5266E-9E31-4B4F-9E2F-A3394FFDC4F1}" coords="(0,0,406,223)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Others%0D%0A</text>
+      <textSize>32</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="CD3F4829-E2DE-424B-BAE5-0EFA3548E5CF" controlTypeID="Circle" x="684" y="417" w="446" h="195" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7622A5FD-C05C-4C70-8BDA-559B6D6F3F15" linkType="ltPageLink" isApplyIncludePage="False" title="battery">
+          <area shape="0" alt="" ID="{5CE4657A-5C91-48F2-80E3-6476AA00ED0F}" coords="(0,0,446,195)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Design+of+lithium+ion+battery+protection+board</text>
+      <textSize>20</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="94226B68-1D21-414B-8469-CE6BFB7B2CAF" controlTypeID="Circle" x="112" y="698" w="460" h="240" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3B1D36D9-ED96-4F69-A976-ABFC1B0289F4" linkType="ltPageLink" isApplyIncludePage="False" title="feixingqi">
+          <area shape="0" alt="" ID="{53AAED3F-20C4-41B7-A5F6-773BD44F101B}" coords="(0,0,460,240)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>MATLAB-based+motor+magneto-electric-thermal+simulation+platform--Optimization+of+security+inspection+equipment+delivery+system+using+servo+motor</text>
+      <textSize>20</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="D391A594-1452-4B7D-9DBD-1619D7534BDA" controlTypeID="Circle" x="116" y="424" w="424" h="178" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9C24D049-94C2-4299-8606-4A1774DF4E98" linkType="ltPageLink" isApplyIncludePage="False" title="cizhishensuo">
+          <area shape="0" alt="" ID="{A05C2CB7-B327-46EB-AF47-F25BCF6263F8}" coords="(0,0,424,178)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Industrial+Pipeline+Health+Monitoring+System+Based+on+Magnetostrictive+Guided+Wave</text>
+      <textSize>20</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294899960</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

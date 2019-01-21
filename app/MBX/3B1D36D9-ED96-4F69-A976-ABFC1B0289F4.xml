@@ -1,0 +1,79 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="3B1D36D9-ED96-4F69-A976-ABFC1B0289F4" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="2000" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="D391CAF4-DC21-476C-AB8F-2D3EDEB6E12C" controlTypeID="Tabs" x="20" y="60" w="1264" h="106" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4288230246</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="AFC1AE1D-D99C-4A0D-AECE-AA4176CFE6F6" controlTypeID="Image" x="89" y="400" w="1126" h="662" zOrder="1">
+      <URL>EF5AFBC545D963E51C7CC481EECAFC13.png</URL>
+    </control>
+    <control controlID="E2305D79-EC1F-4793-8938-C0D5DDFD0791" controlTypeID="Label" x="896" y="336" w="319" h="43" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Nov+2016+%E2%80%93+Jun+2017</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="64AE8FD5-02F4-4D23-A036-4325B4699E20" controlTypeID="Label" x="496" y="1089" w="321" h="37" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Model+built+with+matlab</text>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="46B36D44-F6B4-48C6-A64F-819A151F56BE" controlTypeID="TextArea" x="112" y="1280" w="1079" h="512" zOrder="4">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%EF%82%B7Use+MATLAB+to+model+numerical+analysis%2C+matrix+calculations%2C+scientific+data%2C+and+modeling+and+simulation+of+nonlinear+dynamic+systems%0D%0A%0D%0A%EF%82%B7Modulation+related+parameters+to+debug+multiple+impact+factors%0D%0A%0D%0A%EF%82%B7Through+the+simulink+module%2C+the+effect+of+reducing+the+load+on+the+motor+speed+and+the+motor+rotation+and+reversal+are+alternately+completed+in+a+short+time+to+achieve+the+desired+effect</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="32323C7A-F1AE-4619-8A3F-516549FB9C37" controlTypeID="TextArea" x="89" y="236" w="1147" h="74" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>MATLAB-based+motor+magneto-electric-thermal+simulation+platform--Optimization+of+security+inspection+equipment+delivery+system+using+servo+motor</text>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="680F7E0E-0137-4D01-BA9D-A4B01F101276" controlTypeID="Label" x="112" y="1216" w="125" h="32" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>What+I+did</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7848F335-4F4F-478A-AD1D-D1AAD2E69748" controlTypeID="HRule" x="0" y="1174" w="1300" h="12" zOrder="7"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967244</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

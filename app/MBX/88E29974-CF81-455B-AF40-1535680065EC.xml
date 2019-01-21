@@ -1,0 +1,70 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="88E29974-CF81-455B-AF40-1535680065EC" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="2100" mobileScreenScale="0">
+  <controls controlCount="9">
+    <control controlID="062CF1E0-ECE2-435A-9158-9E2F437AD939" controlTypeID="Image" x="20" y="334" w="496" h="324" zOrder="0">
+      <URL>FDACA88FD62A0C8690738B09D0D18929.PNG</URL>
+    </control>
+    <control controlID="A7D64321-BBD9-4E1C-AE5B-7673C383605B" controlTypeID="Label" x="105" y="275" w="313" h="32" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>This+is+our+award+certificate</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4F643B2F-061B-4460-B662-1EBFD4BBCB94" controlTypeID="VRule" x="512" y="252" w="12" h="1470" zOrder="2"/>
+    <control controlID="0ECFD909-2BDF-4EF6-8C08-C66F5C54DEBA" controlTypeID="Image" x="524" y="334" w="742" h="726" zOrder="3">
+      <URL>0B7235144C4394CE1D37F7F6AEB8000B.PNG</URL>
+    </control>
+    <control controlID="33AA1457-680F-4817-8777-A89BCE40D4D5" controlTypeID="Image" x="524" y="1130" w="770" h="792" zOrder="4">
+      <URL>08CB7B5E0723D688583212FAFB3577FB.PNG</URL>
+    </control>
+    <control controlID="AA7CE8F9-62C1-4C6D-AB64-0AF78A1A272F" controlTypeID="HRule" x="0" y="668" w="514" h="12" zOrder="5"/>
+    <control controlID="F18FE2C9-E5D6-4D63-8625-F87529958B8E" controlTypeID="Label" x="745" y="275" w="282" h="32" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>This+is+our+paper+excerpt</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C7A82BB1-EB36-42FF-9549-8601270DFE6D" controlTypeID="StickyNote" x="36" y="735" w="440" h="504" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>My+contribution%0D%0A%0D%0A%0D%0A1+latex+typesetting%0D%0A%0D%0A%0D%0A2+mathematical+modeling%0D%0A%0D%0A%0D%0A3matlab+drawing%0D%0A%0D%0A%0D%0A4+paper+correction</text>
+      <textSize>24</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="83112CC5-077A-4E63-917D-234FBF8B61D7" controlTypeID="Tabs" x="20" y="52" w="1264" h="106" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4294914969</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294899960</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

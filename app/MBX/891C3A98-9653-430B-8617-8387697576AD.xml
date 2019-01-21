@@ -1,0 +1,192 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="891C3A98-9653-430B-8617-8387697576AD" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="1300" mobileScreenScale="0">
+  <controls controlCount="23">
+    <control controlID="1A56802A-C32D-4A75-B173-745CD3A316D7" controlTypeID="TabletPC2" x="236" y="291" w="838" h="790" zOrder="0"/>
+    <control controlID="5DB054FC-7103-45CB-AEF4-7CCC6EAE3E83" controlTypeID="CallOut" x="328" y="387" w="47" h="54" zOrder="1">
+      <color>4294953984</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9AE5AE32-CABD-4507-8212-315751152C4A" controlTypeID="HRule" x="272" y="451" w="766" h="12" zOrder="2"/>
+    <control controlID="84B68248-0147-451A-B775-73F2109B5DF8" controlTypeID="CallOut" x="334" y="788" w="43" h="51" zOrder="3">
+      <color>4294953984</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>5</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F0C75AAC-FB94-4484-B5D1-2AE0A0499568" controlTypeID="CallOut" x="333" y="691" w="46" h="51" zOrder="4">
+      <color>4294953984</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>4</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5BB516DD-0E13-4C7A-84DA-A2CE90D4562D" controlTypeID="CallOut" x="333" y="597" w="46" h="49" zOrder="5">
+      <color>4294953984</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>3</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="55CB0D09-75D8-4FED-9F34-58AEE0A667AE" controlTypeID="CallOut" x="332" y="498" w="47" h="54" zOrder="6">
+      <color>4294953984</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>2</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="78D1FA9B-8A44-4C15-8C1F-94015C084546" controlTypeID="CallOut" x="334" y="884" w="45" h="45" zOrder="7">
+      <color>4294953984</color>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>6</text>
+      <textSize>40</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7D6FFDAE-E782-4ED2-BB0E-E23A054438A5" controlTypeID="Label" x="448" y="400" w="308" h="27" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="88E29974-CF81-455B-AF40-1535680065EC" linkType="ltPageLink" isApplyIncludePage="False" title="meisai">
+          <area shape="0" alt="" ID="{69DE1A95-1846-4FE3-98F5-248E9926B12C}" coords="(0,0,308,27)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>ICM+Honorable+Mention+in+2018</text>
+      <textColor>4294927923</textColor>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B6B7A6ED-F952-46C8-A1CE-8F36C461822F" controlTypeID="Label" x="448" y="508" w="313" h="27" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="70379ED5-4882-4530-B314-017A6C196B45" linkType="ltPageLink" isApplyIncludePage="False" title="notes">
+          <area shape="0" alt="" ID="{43D615FB-2A83-48F2-ADDF-BD26CD482A83}" coords="(0,0,313,27)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>HIT+Most+beautiful+notes+in+2018</text>
+      <textColor>4294927923</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="360BED77-57ED-4C56-A6A9-2BAA901F6A4C" controlTypeID="Label" x="448" y="605" w="303" h="27" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Excellent+student+of+HIT+in+2018</text>
+      <textColor>4294927923</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BBDB1D6C-5A50-402A-9E80-04B186CB6131" controlTypeID="Label" x="448" y="889" w="463" h="27" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>HIT+Military+training+excellent+pacesetter+in+2016</text>
+      <textColor>4294927974</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="234F4B08-6C06-4B5F-9DBE-743D502D351A" controlTypeID="Tabs" x="20" y="50" w="1264" h="106" zOrder="12">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4294914969</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="90D5C043-AFC0-48FA-AC13-E0F243AE5BE9" controlTypeID="Icon" x="796" y="394" w="40" h="40" zOrder="13">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="88E29974-CF81-455B-AF40-1535680065EC" linkType="ltPageLink" isApplyIncludePage="False" title="meisai">
+          <area shape="0" alt="" ID="{BF1C1E2F-94B3-49B6-9501-C8DD364C64BF}" coords="(0,0,40,40)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62306</iconCode>
+      </icon>
+      <URL>9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg</URL>
+    </control>
+    <control controlID="FA6D5BD8-06DE-4439-BACA-ABECFA015D17" controlTypeID="Icon" x="801" y="508" w="39" h="39" zOrder="14">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="70379ED5-4882-4530-B314-017A6C196B45" linkType="ltPageLink" isApplyIncludePage="False" title="notes">
+          <area shape="0" alt="" ID="{9018A8C8-7B21-4C31-B1DD-EAC0D054585C}" coords="(0,0,39,39)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62306</iconCode>
+      </icon>
+      <URL>9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg</URL>
+    </control>
+    <control controlID="3901537A-446F-4165-8DA2-ED8EC8401410" controlTypeID="Icon" x="930" y="797" w="36" h="36" zOrder="15">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CCAF61B9-D970-4CBC-9123-84A93A323E8D" linkType="ltPageLink" isApplyIncludePage="False" title="peiyin">
+          <area shape="0" alt="" ID="{3E6CE35F-4110-48C3-B5A8-BEB30E151EE2}" coords="(0,0,36,36)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62306</iconCode>
+      </icon>
+      <URL>9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg</URL>
+    </control>
+    <control controlID="A125140E-5E51-4F57-ABFB-D20FB4932470" controlTypeID="TextArea" x="448" y="691" w="518" h="61" zOrder="16">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>National+Second+Prize+for+College+Students+Mathematical+Competition+in+2017</text>
+      <textColor>4294927923</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C3C37AD3-9568-4ACB-9186-FF6C1304FD0D" controlTypeID="TextArea" x="448" y="797" w="454" h="42" zOrder="17">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>HIT+First+English+dubbing+competition+in+2018</text>
+      <textColor>4294927923</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1C3F8B6A-CCC0-46C1-975D-37C8ED895233" controlTypeID="HRule" x="272" y="562" w="766" h="12" zOrder="18"/>
+    <control controlID="3E44A914-D155-4BBF-B9D9-E28A11E37B9D" controlTypeID="HRule" x="272" y="660" w="766" h="12" zOrder="19"/>
+    <control controlID="6A55661D-6E49-4235-A978-C1B615524CC2" controlTypeID="HRule" x="272" y="752" w="766" h="12" zOrder="20"/>
+    <control controlID="91FE49BE-95E9-4B06-97A4-D1241291730E" controlTypeID="HRule" x="272" y="849" w="766" h="12" zOrder="21"/>
+    <control controlID="FBD3F63E-C842-48EE-AA2F-8A17DFABF6E2" controlTypeID="HRule" x="272" y="943" w="766" h="12" zOrder="22"/>
+  </controls>
+  <param>
+    <backgroundColor>4294953984</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

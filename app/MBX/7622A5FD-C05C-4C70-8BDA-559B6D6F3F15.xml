@@ -1,0 +1,93 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="7622A5FD-C05C-4C70-8BDA-559B6D6F3F15" platform="MtWeb" defaultW="1300" defaultH="1300" measureW="1300" measureH="2200" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="C900BEA2-E244-4E37-830E-BD4AB8916AB5" controlTypeID="Tabs" x="20" y="60" w="1264" h="106" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="homepage">
+          <area shape="0" alt="" ID="{BB69367C-E4B6-4576-BE18-35E81332B1F7}" coords="(0,0,251.800003051758,106)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="research">
+          <area shape="0" alt="" ID="{C2CF7B73-BC89-4935-A892-42F470B405C7}" coords="(252.800003051758,0,504.600006103516,106)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="honor">
+          <area shape="0" alt="" ID="{75678512-9C7D-402C-9112-7668DC3CBE5B}" coords="(505.600006103516,0,757.400024414063,106)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="diversification">
+          <area shape="0" alt="" ID="{79CE8D18-3C17-488C-9BD9-8988C7728A8C}" coords="(758.400024414063,0,1010.20001220703,106)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="interest">
+          <area shape="0" alt="" ID="{E5C33F34-1608-4B95-BFE9-8CB86815DFAD}" coords="(1011.20001220703,0,1263,106)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>homepage%EF%BC%8Cresearch%EF%BC%8Chonor%EF%BC%8Cdiversification%EF%BC%8Cinterest</text>
+      <textColor>4284901119</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="40F63D73-477F-4A51-A24C-08D2801588B5" controlTypeID="Image" x="56" y="387" w="712" h="568" zOrder="1">
+      <URL>CE158F57ED70BC29F05137116D7F4141.png</URL>
+    </control>
+    <control controlID="3D2D2DAD-F83B-442E-A10E-38BA6DC7E455" controlTypeID="Image" x="56" y="1034" w="982" h="560" zOrder="2">
+      <URL>F822F612D58D4483588A35B2497D135A.png</URL>
+    </control>
+    <control controlID="1F619F06-EED4-4BB6-84FA-4FB110E8E02E" controlTypeID="TextArea" x="50" y="1750" w="1166" h="340" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%EF%82%B7Learn+bq76820%2C+IRF7341+and+other+chips+to+build+a+suitable+unit+for+the+protection+board%0D%0A%0D%0A%EF%82%B7Design+the+schematic+of+the+lithium-ion+battery+protection+board+with+altium+designer+software%2C+then+draw+pcb+to+make+the+real+thing%0D%0A%0D%0A%EF%82%B7Testing+and+application+of+protection+board+using+stm32+microcontroller</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C83FBC43-4735-4318-81B9-6D641F9CAB40" controlTypeID="HSplitter" x="0" y="1658" w="1300" h="10" zOrder="4"/>
+    <control controlID="FA264ACF-0229-4A7C-92AB-016230AC619F" controlTypeID="Label" x="56" y="327" w="313" h="37" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>This+is+the+pcb+we+drew</text>
+      <textColor>4284900966</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="93DB0A58-8E01-4FDD-829A-025541A747C2" controlTypeID="Label" x="56" y="973" w="397" h="37" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>This+is+the+schematic+we+drew</text>
+      <textColor>4288256409</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1D3208BE-1C1B-412A-A342-9AFA37E3E04F" controlTypeID="Label" x="240" y="214" w="747" h="43" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Design+of+lithium+ion+battery+protection+board</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7AA1EC5A-881B-4AD2-808E-300A5F0ADD25" controlTypeID="Label" x="950" y="278" w="313" h="43" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sep+2018+%E2%80%93+Jun+2019</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C28BA7C2-A78B-415E-ABC2-6EF937FF5B09" controlTypeID="Label" x="56" y="1700" w="125" h="32" zOrder="9">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>What+I+did</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,38 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="85E2984C-C374-408E-BF1E-5EF04FC06B71" platform="MtWeb" defaultW="1400" defaultH="4000" measureW="1400" measureH="4000" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="F74DB378-E0D4-43D3-A31D-8E3CF64A77D3" controlTypeID="LinkBar" x="504" y="130" w="733" h="37" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="52234D07-DCBC-45D0-BE62-EB2C082A43BA" linkType="ltPageLink" isApplyIncludePage="False" title="Home+page+">
+          <area shape="0" alt="" ID="{31F4BCEB-3D09-42A3-A3F6-2DA2FFE4931F}" coords="(0,0,156,37)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="+study+">
+          <area shape="0" alt="" ID="{AC25CAD3-4A53-492B-9ACC-182D23E91D3A}" coords="(168,0,250,37)"/>
+        </link>
+        <link targetPageID="A55E6F3E-E55F-428A-B20D-D3DA3A4426FC" linkType="ltPageLink" isApplyIncludePage="False" title="+research+">
+          <area shape="0" alt="" ID="{3E08C316-FC2A-4282-813A-6C8BC467758C}" coords="(262,0,381,37)"/>
+        </link>
+        <link targetPageID="891C3A98-9653-430B-8617-8387697576AD" linkType="ltPageLink" isApplyIncludePage="False" title="+honor+">
+          <area shape="0" alt="" ID="{A5105CDF-2E3B-4AED-9ABD-3E4BFC16C7A3}" coords="(393,0,482,37)"/>
+        </link>
+        <link targetPageID="C3AD961E-A57D-48D3-9797-6FD7603F4F44" linkType="ltPageLink" isApplyIncludePage="False" title="+duoyuan+">
+          <area shape="0" alt="" ID="{95F7387B-D2D4-4264-9ED0-C2E9929A781E}" coords="(494,0,618,37)"/>
+        </link>
+        <link targetPageID="888EB620-9A0C-4BB9-B330-0F36791C448D" linkType="ltPageLink" isApplyIncludePage="False" title="+shining">
+          <area shape="0" alt="" ID="{C8EB9171-FFBA-458C-BF0C-54764B2852DF}" coords="(630,0,733,37)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home+page+%2C+study+%2C+research+%2C+honor+%2C+duoyuan+%2C+shining</text>
+      <textColor>4294914969</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
